@@ -40,12 +40,13 @@ What are the counts of gender?
 What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
 
 ### Files used
-washington.read_csv
-chicago.read_csv
-new_york_city.read_csv
+washington.csv
+chicago.csv
+new_york_city.csv
 bikeshare_2.py
 
 ### Credits
+These are the links that realy helped me complete this project successfully
 https://stackoverflow.com/questions/21269399/datetime-dtypes-in-pandas-read-csv
 
 https://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
