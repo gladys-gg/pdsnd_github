@@ -4,7 +4,7 @@
 December 5th 2021
 
 ### Project Title
-Udacity Bikeshare project
+Udacity Data science with python Bikeshare project
 
 ### Description
 This Python script is written for Project 2  of Udacity's Data Science with Python Nanodegree and is used to explore data related to bike share systems for Chicago, New York City, and Washington. It imports data from csv files and compute descriptive statistics from the data. It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
